@@ -13,7 +13,7 @@
 
 @layer components {
   .App {
-    @apply grid place-content-center py-10   space-y-20  min-h-screen overflow-hidden bg-veryLightGrayishCyan;
+    @apply grid place-content-center py-10   space-y-20  min-h-screen overflow-hidden bg-lightGrayishCyan;
   }
   .BrandIcon {
     @apply place-self-center;
